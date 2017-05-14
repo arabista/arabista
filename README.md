@@ -7,7 +7,7 @@ We hope to facilitate your life in your web design career by building our framew
 
 
 ## Quick Start
-You can choice from one of the bellow options:
+You can choose from one of the bellow options:
 + [Download the latest version](https://github.com/arabista/arabista/archive/master.zip)
 + clone the repo: `git clone https://github.com/arabista/arabista.git`
 
