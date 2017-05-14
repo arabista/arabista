@@ -19,6 +19,10 @@ Arabista is a growing framework and we prefer to walk with little steps to make 
 ## Features
 #### Arabista v1.0.0-alpha.1
 Give you a simple grid system which will convert your website design into a responsive one for all kind of screens and with the mobile first projects, basic rests container and feature button mixins.
+
+
+## Documentation
+You can finde here a quick guid for [How to use Arabista](https://arabista.github.io/arabista/).
 ***
 ## Copyright and license
 Copyright (C) 2017  Arabista, Inc. Code released under [the MIT license](https://github.com/arabista/arabista/blob/master/LICENSE) with the below notice.
