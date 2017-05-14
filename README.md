@@ -1,7 +1,17 @@
 # [Arabista](https://github.com/arabista/arabista)
 Arabista is an upcoming framework for developing responsive, mobile first projects on the web.  
 We hope to facilitate your life in your web design career by building our framework on SASS.
+
+
 ***
+
+
+## Quick Start
+You can choice from one of the bellow options:
++ [Download the latest version](https://github.com/arabista/arabista/archive/master.zip)
++ clone the repo: `git clone https://github.com/arabista/arabista.git`
+
+
 ## What will you find
 Arabista is a growing framework and we prefer to walk with little steps to make the big difference on the long term purpose.
 
