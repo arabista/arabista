@@ -1,0 +1,35 @@
+@import "arabista"
+.topic, .header
+   +container
+   h2
+      text-transform: capitalize
+.header
+   margin-top: 50px
+hr
+   margin: 50px 0
+.code
+   pre
+      background:
+         color: #EEE
+      padding: 2em
+      overflow-x: auto
+      line-height: 2.5em
+.btn.default
+   +button
+.btn.custome
+   +button(#11CBD7, #FFF6A2, '30px', '2em', '40px')
+
+.container
+   width: 100%
+   height: 100px
+   background: #f30123
+   +container
+.container-full
+   @extend .container
+   margin-top: 70px !important
+   +container-full
+
+.finaly
+   font-size: 2em
+   font-weight: 2em
+   text-transform: capitalize

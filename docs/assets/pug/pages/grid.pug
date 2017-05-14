@@ -1,0 +1,38 @@
+section.topic#grid
+   h2 grid system
+   p you have two mixins here for basic grid system the parent will has mixin (row) and the columns will have mixin (col).
+   .code
+      pre.
+         .any_parent_class
+            +row
+            .any_child_class
+               +col
+   p the child here (col) will take the full width by default.
+   p if you want to custome width (as any normal grid system), we make it easy for you the (+col) mixin has two variables. we assume you need (12) base grid system so we use it by default.
+   .code
+      pre.
+         +col(6)
+   p previous code will take 50% width
+   .code
+      pre.
+         +col(1,2)
+   p and this also will take 50% width
+   p note that this effects will happen in all media typs (large screens to phone screen).
+hr
+section.topic
+   h2 media queries
+   p we have a defrrent way in using media querys we used large to small effect so what happens in large screen and normal code will still in small screen unliss you change it in that small screens.
+   p you will find 4 main media break points we make it as mixins.
+   .code
+      pre.
+         .any_class_name
+            background: pink
+            +col(1,2)
+            +medium
+               +col(5,12)
+            +tablet
+               +col(1,3)
+            +phone
+               +col
+   p simply every media have its break point and you type your custome code under the mixin.
+   p Note: what happens in tablet media will affect the tablet and phone media only. the effects goes in upside down way.

@@ -1,0 +1,17 @@
+section.topic#buttons
+   h2 buttons
+   p simply use the (button) mixin to make button effect with the default settings.
+   .code
+      pre.
+         +button
+         +button(color, font color, font size, width, height)
+   button.btn.default default button settings
+   .code
+      pre.
+         +button /* default style */
+   button.btn.custome custome button settings
+   .code
+      pre.
+         /* custome style */
+         +button(#11CBD7, #FFF6A2, '30px', '2em', '40px')
+   p Note: sizes can written in px, em, rem and %.
