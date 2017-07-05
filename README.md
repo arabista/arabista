@@ -25,7 +25,7 @@ Give you a simple grid system which will convert your website design into a resp
 You can finde here a quick guid for [How to use Arabista](https://arabista.github.io/arabista/).
 ***
 ## Copyright and license
-Copyright (C) 2017  Arabista, Inc. Code released under [the MIT license](https://github.com/arabista/arabista/blob/master/LICENSE) with the below notice.
+Copyright (C) 2017 zogorn and Arabista, Inc. Code released under dual license, [the MIT license](https://github.com/arabista/arabista/blob/master/LICENSE) with the below notice.
 
 You have full freedom in the use of this product in any purpose but is not contrary to the teachings  
 mentioned in [The Holy Quran](http://quran.ksu.edu.sa/index.php?l=en#aya=1_1&m=hafs&qaree=husary&trans=en_sh).
